@@ -98,8 +98,8 @@ Built as part of hands-on learning in Python, Bash, and networking.
 --- 
 
 ## screenshots
-* <img width="1280" height="768" alt="log" src="https://github.com/user-attachments/assets/2ad60226-b610-4fd2-9ced-5996fb81987e" />
-* <img width="1280" height="768" alt="csv" src="https://github.com/user-attachments/assets/812eae77-4953-462f-91f4-ea6ea9b59d7c" />
-* <img width="1280" height="768" alt="json" src="https://github.com/user-attachments/assets/9d15765c-9d20-425c-9b21-ac5cf805dbe8" />
+<img width="1280" height="768" alt="log" src="https://github.com/user-attachments/assets/2ad60226-b610-4fd2-9ced-5996fb81987e" />
+<img width="1280" height="768" alt="csv" src="https://github.com/user-attachments/assets/812eae77-4953-462f-91f4-ea6ea9b59d7c" />
+<img width="1280" height="768" alt="json" src="https://github.com/user-attachments/assets/9d15765c-9d20-425c-9b21-ac5cf805dbe8" />
 
 
